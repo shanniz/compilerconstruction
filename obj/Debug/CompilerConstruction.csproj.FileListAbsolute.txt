@@ -1,0 +1,9 @@
+c:\users\shan\documents\visual studio 2012\Projects\CompilerConstruction\CompilerConstruction\bin\Debug\CompilerConstruction.exe.config
+c:\users\shan\documents\visual studio 2012\Projects\CompilerConstruction\CompilerConstruction\bin\Debug\CompilerConstruction.exe
+c:\users\shan\documents\visual studio 2012\Projects\CompilerConstruction\CompilerConstruction\bin\Debug\CompilerConstruction.pdb
+c:\users\shan\documents\visual studio 2012\Projects\CompilerConstruction\CompilerConstruction\obj\Debug\CompilerConstruction.csprojResolveAssemblyReference.cache
+c:\users\shan\documents\visual studio 2012\Projects\CompilerConstruction\CompilerConstruction\obj\Debug\CompilerConstruction.Form1.resources
+c:\users\shan\documents\visual studio 2012\Projects\CompilerConstruction\CompilerConstruction\obj\Debug\CompilerConstruction.Properties.Resources.resources
+c:\users\shan\documents\visual studio 2012\Projects\CompilerConstruction\CompilerConstruction\obj\Debug\CompilerConstruction.csproj.GenerateResource.Cache
+c:\users\shan\documents\visual studio 2012\Projects\CompilerConstruction\CompilerConstruction\obj\Debug\CompilerConstruction.exe
+c:\users\shan\documents\visual studio 2012\Projects\CompilerConstruction\CompilerConstruction\obj\Debug\CompilerConstruction.pdb
